@@ -2,7 +2,9 @@
 
 This repo contains a simple Python simulation comparing **standard Langevin dynamics** with a **drift-only NETS-inspired dynamics** in a 1D double-well potential.  
 
-It's meant as a toy project for exploring rare-event sampling and first-passage statistics.  
+It's meant as a toy project for exploring rare-event sampling and first-passage statistics.
+
+Work is inspired by ["NETS: A Non-Equilibrium Transport Sampler" by Michael S. Albergo, Eric Vanden-Eijnden (2025)] (https://arxiv.org/abs/2410.02711)
 
 ## Features
 
