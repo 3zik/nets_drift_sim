@@ -6,7 +6,7 @@ It's meant as a toy project for exploring rare-event sampling and first-passage 
 
 ## Features
 
-- 1D double-well potential \(V(x) = (x^2 - 1)^2\)
+- 1D double-well potential $\(V(x) = (x^2 - 1)^2\$)
 - Baseline overdamped Langevin dynamics
 - Drift-only augmentation \(u_\alpha(x) = -\alpha \tanh(x)\) to accelerate barrier crossings
 - Euler–Maruyama integrator
