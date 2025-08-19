@@ -4,7 +4,7 @@ This repo contains a simple Python simulation comparing **standard Langevin dyna
 
 It's meant as a toy project for exploring rare-event sampling and first-passage statistics.
 
-Work is inspired by ["NETS: A Non-Equilibrium Transport Sampler" by Michael S. Albergo, Eric Vanden-Eijnden (2025)] (https://arxiv.org/abs/2410.02711)
+Work is inspired by ["NETS: A Non-Equilibrium Transport Sampler" by Michael S. Albergo, Eric Vanden-Eijnden (2025)](https://arxiv.org/abs/2410.02711)
 
 ## Features
 
